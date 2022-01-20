@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /404.html
 sitemap: false
 visible: 0
 ---
