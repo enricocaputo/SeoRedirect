@@ -47,10 +47,6 @@ defaults:
       comments: "false"
       seo:
         type: "Article"
-  - scope:
-      path: "_vendita_piante_online"
-    values:
-
 
 paginate: 6
 paginate_path: "/consigli-di-giardinaggio/page:num/"
