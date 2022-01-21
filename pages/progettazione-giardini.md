@@ -1,6 +1,7 @@
 ---
-sitemap: false
+# sitemap: false
 visible: 0
+permalink: /progettazione-giardini/
 ---
 <!DOCTYPE html>
 <html>

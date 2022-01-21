@@ -1,6 +1,7 @@
 ---
-sitemap: false
+# sitemap: false
 visible: 0
+permalink: /servizi-di-giardinaggio/
 ---
 <!DOCTYPE html>
 <html>

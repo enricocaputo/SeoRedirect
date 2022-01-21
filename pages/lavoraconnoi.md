@@ -1,6 +1,7 @@
 ---
-sitemap: false
+# sitemap: false
 visible: 0
+permalink: /lavora-con-noi/
 ---
 <!DOCTYPE html>
 <html>

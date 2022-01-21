@@ -1,6 +1,7 @@
 ---
-sitemap: false
+# sitemap: false
 visible: 0
+permalink: /riparazione-tagliaerba-udine-gorizia/
 ---
 <!DOCTYPE html>
 <html>

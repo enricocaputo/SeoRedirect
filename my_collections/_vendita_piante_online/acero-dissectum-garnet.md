@@ -1,5 +1,5 @@
 ---
-sitemap: false
+# sitemap: false
 visible: 0
 ---
 <!DOCTYPE html>

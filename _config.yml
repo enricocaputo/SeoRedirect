@@ -48,6 +48,9 @@ defaults:
       seo:
         type: "Article"
 
+plugins:
+  - jekyll-sitemap
+
 paginate: 6
 paginate_path: "/consigli-di-giardinaggio/page:num/"
 markdown: kramdown

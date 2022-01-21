@@ -1,6 +1,7 @@
 ---
-sitemap: false
+# sitemap: false
 visible: 0
+permalink: /calendario-di-giardinaggio/
 ---
 <!DOCTYPE html>
 <html>

@@ -1,6 +1,7 @@
 ---
-sitemap: false
+# sitemap: false
 visible: 0
+permalink: /giardinaggio-gorizia/
 ---
 <!DOCTYPE html>
 <html>
