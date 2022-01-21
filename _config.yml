@@ -34,7 +34,6 @@ defaults:
   - scope:
       path: "_posts"
     values:
-      layout: "post"
       seo:
         type: "Article"
       author: "potasiepe"
@@ -44,7 +43,6 @@ defaults:
   - scope:
       path: "_calendario"
     values:
-      layout: "post"
       author: "potasiepe"
       comments: "false"
       seo:
@@ -52,7 +50,6 @@ defaults:
   - scope:
       path: "_vendita_piante_online"
     values:
-      layout: "product"
 
 
 paginate: 6
